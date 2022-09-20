@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=efloresz&label=Profile%20views&color=0e75b6&style=flat" alt="efloresz" /> </p>
 
-- 🌱 I’m currently learning **Python and JavaScript**
+- 🌱 I’m currently learning **Java, Python and JavaScript**
 
 - 📫 How to reach me **e_floresrodriguez@massbay.edu**
 
