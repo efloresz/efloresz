@@ -20,6 +20,8 @@ class ComputerScience:
     def __init__(self):
         self.name = "Emily Flores"
         self.role = "Student"
+        self.school = "Massbay Community College"
+        self.location = "Boston, Ma"
         self.language_spoken = ["en_US", "es_GT"]
     def say_hi(self):
         print("Thanks for dropping by, hope to connect with you.")
