@@ -51,23 +51,21 @@ public class Information {
     }
 }
 ```
-![star](https://user-images.githubusercontent.com/110843762/225450803-ce1a5703-2dd6-4598-a2bf-bb85ec8fdfda.png)
+
+| Github Statistics | Github Streak |
+| --- | --- |
+| ![efloresz's github stats](https://github-readme-stats.vercel.app/api?username=efloresz&show_icons=true&title_color=ff9ece&icon_color=ff9ece&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true) | ![efloresz's github streak](https://github-readme-streak-stats.herokuapp.com/?user=efloresz&theme=dark&background=151515&stroke=ff9ece&ring=ff9ece&fire=ff9ece&currStreakNum=ff9ece&sideNums=daf7dc&currStreakLabel=daf7dc&sideLabels=daf7dc) |
 
 
-<h3 align="left">About me:</h3>
-
-- 🌱 I’m currently learning **Java, Python and JavaScript**
-
-- 📫 How to reach me **e_floresrodriguez@massbay.edu**
-
-- ⚡ Fun fact **I am bilingual in English and Spanish**
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=efloresz&" alt="efloresz" /></p>
+
+
+
+
+
 
 
 
