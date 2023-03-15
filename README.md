@@ -1,18 +1,12 @@
 
-<!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+
+![330307847022211](https://user-images.githubusercontent.com/110843762/225420992-e4ef9135-421d-4357-a45f-9c35039311fd.png)
 
 <!--📏LINE-->
 ![github-header-image](https://user-images.githubusercontent.com/110843762/225416314-0f588ebd-d49d-4b47-98ed-e0c56590b78f.png)
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-
-
-
-
-
-
-
+![330307847022211](https://user-images.githubusercontent.com/110843762/225420992-e4ef9135-421d-4357-a45f-9c35039311fd.png)
 
 
 ```python
