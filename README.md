@@ -1,16 +1,18 @@
+
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h1 align="center">Welcome, I'm Emily Flores <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="35"></h1>
-<p align="center"><img src="https://media.istockphoto.com/id/1404779151/vector/black-females-hand-typing-on-laptop-keyboard.jpg?s=612x612&w=0&k=20&c=uFjyAcKGDr3Bm3ygROQnNFakClwMAGnwFwK9hWrBtGQ=" alt="typing" height="200" width="250" /> </p>
-
-<h3 align="center">A passionate CS major from Boston, MA.</h3>
 <!--📏LINE-->
+![github-header-image](https://user-images.githubusercontent.com/110843762/225416314-0f588ebd-d49d-4b47-98ed-e0c56590b78f.png)
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=efloresz&label=Profile%20views&color=0e75b6&style=flat" alt="efloresz" /> </p>
+
+
+
+
+
 
 
 ```python
@@ -28,6 +30,7 @@ class ComputerScience:
 me = ComputerScience()
 me.say_hi()
 ```
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=efloresz&label=Profile%20views&color=0e75b6&style=flat" alt="efloresz" /> </p>
 
 <h3 align="left">About me:</h3>
 
@@ -47,6 +50,7 @@ me.say_hi()
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=efloresz&" alt="efloresz" /></p>
 
