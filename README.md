@@ -22,20 +22,33 @@
 
 
 
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-class ComputerScience:
-    def __init__(self):
-        self.name = "Emily Flores"
-        self.role = "Student"
-        self.school = "Massbay Community College"
-        self.location = "Boston, Ma"
-        self.language_spoken = ["en_US", "es_GT"]
-    def say_hi(self):
-        print("Thanks for dropping by, hope to connect with you.")
-me = ComputerScience()
-me.say_hi()
+```java
+// -*- About me -*- 
+public class Information {
+    private String name, school, location, major;
+    private String[] languages;
+
+    public Information(String name, String school, String location, String major, String[] languages) {
+        this.name = name;
+        this.school = school;
+        this.location = location;
+        this.major = major;
+        this.languages = languages;
+    }
+
+    public static void main(String[] args) {
+        Information info = new Information(
+            "Emily Flores",
+            "Massachusetts Bay Community College",
+            "Boston, MA",
+            "Computer Science",
+            new String[]{"Python", "Java", "JavaScript", "HTML", "CSS"}
+        );
+
+        System.out.printf("Name: %s\nSchool: %s\nLocation: %s\nMajor: %s\nLanguages: %s\n",
+            info.name, info.school, info.location, info.major, String.join(", ", info.languages));
+    }
+}
 ```
 
 
