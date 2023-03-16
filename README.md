@@ -16,7 +16,7 @@
 <a href="https://stackoverflow.com/users/19872764" target="blank"><img align="center" src="https://user-images.githubusercontent.com/110843762/225434227-1dba3852-2301-4b1f-b850-6882d181fc46.png" alt="19872764" height="50" width="50" /></a>
 <a href="https://discordapp.com/users/661738219628658719" target="blank"><img align="center" src="https://user-images.githubusercontent.com/110843762/225434655-ca122f4e-aa1a-409b-b02d-f3c4f289fc39.png" alt="efloresz" height="50" width="50" /></a>
 <a href="https://www.leetcode.com/efloresz" target="blank"><img align="center" src="https://user-images.githubusercontent.com/110843762/225431639-449d0223-3e43-41b1-a0f3-d269a714473b.png" alt="efloresz" height="50" width="50" /></a>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=efloresz&label=Profile%20views&color=0e75b6&style=flat" alt="efloresz" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=efloresz&label=Profile%20views&color=e19ec7&style=flat" alt="efloresz" /> </p>
 
 
 
