@@ -54,7 +54,8 @@ public class Information {
 
 | Github Statistics | Github Streak |
 | --- | --- |
-| ![efloresz's github stats](https://github-readme-stats.vercel.app/api?username=efloresz&show_icons=true&title_color=ff9ece&icon_color=ff9ece&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true) | ![efloresz's github streak](https://github-readme-streak-stats.herokuapp.com/?user=efloresz&theme=dark&background=151515&stroke=ff9ece&ring=ff9ece&fire=ff9ece&currStreakNum=ff9ece&sideNums=daf7dc&currStreakLabel=daf7dc&sideLabels=daf7dc) |
+[![Emily Flores's GitHub stats](https://github-readme-stats.vercel.app/api?username=efloresz&show_icons=true&title_color=ff69b4&icon_color=ff69b4&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)](https://github.com/efloresz/github-readme-stats) | ![efloresz's github streak](https://github-readme-streak-stats.herokuapp.com/?user=efloresz&theme=dark&background=151515&stroke=ff9ece&ring=ff9ece&fire=ff9ece&currStreakNum=ff9ece&sideNums=daf7dc&currStreakLabel=daf7dc&sideLabels=daf7dc)
+
 
 
 
