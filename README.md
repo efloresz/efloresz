@@ -1,7 +1,9 @@
 
 
 
+
 ![330307847022211](https://user-images.githubusercontent.com/110843762/225420992-e4ef9135-421d-4357-a45f-9c35039311fd.png)
+![star](https://user-images.githubusercontent.com/110843762/225450803-ce1a5703-2dd6-4598-a2bf-bb85ec8fdfda.png)
 
 <!--📏LINE-->
 ![github-header-image (4)](https://user-images.githubusercontent.com/110843762/225437727-0f804b85-f27c-416d-b62b-29ebf989766d.png)
@@ -10,17 +12,16 @@
 
 ![330307847022211](https://user-images.githubusercontent.com/110843762/225420992-e4ef9135-421d-4357-a45f-9c35039311fd.png)
 
-
+</p>
 <p align="center">
-<a href="https://www.linkedin.com/in/emily-flores-73798a218" target="blank"><img align="center" src="https://user-images.githubusercontent.com/110843762/225426123-a84b7ecb-3a2b-4ca1-a447-d046f2dddf25.png" alt="emily flores" height="50" width="50" /></a>
-<a href="https://stackoverflow.com/users/19872764" target="blank"><img align="center" src="https://user-images.githubusercontent.com/110843762/225434227-1dba3852-2301-4b1f-b850-6882d181fc46.png" alt="19872764" height="50" width="50" /></a>
-<a href="https://discordapp.com/users/661738219628658719" target="blank"><img align="center" src="https://user-images.githubusercontent.com/110843762/225434655-ca122f4e-aa1a-409b-b02d-f3c4f289fc39.png" alt="efloresz" height="50" width="50" /></a>
-<a href="https://www.leetcode.com/efloresz" target="blank"><img align="center" src="https://user-images.githubusercontent.com/110843762/225431639-449d0223-3e43-41b1-a0f3-d269a714473b.png" alt="efloresz" height="50" width="50" /></a>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=efloresz&label=Profile%20views&color=F2ACB9&style=flat" alt="efloresz" /> </p>
+    <img src="https://komarev.com/ghpvc/?username=efloresz&label=Profile%20views&color=F2ACB9&style=flat" alt="efloresz" /> 
+</p>
 
 
 
-![star](https://user-images.githubusercontent.com/110843762/225450803-ce1a5703-2dd6-4598-a2bf-bb85ec8fdfda.png)
+
+<p align="center"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>  
+
 
 
 ```java
@@ -52,9 +53,16 @@ public class Information {
 }
 ```
 
+
+
+
+
+
 | Github Statistics | Github Streak |
 | --- | --- |
 [![Emily Flores's GitHub stats](https://github-readme-stats.vercel.app/api?username=efloresz&show_icons=true&title_color=ff69b4&icon_color=ff69b4&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)](https://github.com/efloresz/github-readme-stats) | ![efloresz's github streak](https://github-readme-streak-stats.herokuapp.com/?user=efloresz&theme=dark&background=151515&stroke=ff9ece&ring=ff9ece&fire=ff9ece&currStreakNum=ff9ece&sideNums=daf7dc&currStreakLabel=daf7dc&sideLabels=daf7dc)
+
+
 
 
 
