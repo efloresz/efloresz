@@ -7,9 +7,11 @@
 
 <!--📏LINE-->
 ![github-header-image (4)](https://user-images.githubusercontent.com/110843762/225437727-0f804b85-f27c-416d-b62b-29ebf989766d.png)
-</p>
+</p>  
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=efloresz&label=Profile%20views&color=F2ACB9&style=flat" alt="efloresz" /> 
+<a href="https://github.com/efloresz/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=efloresz&style=for-the-badge&color=F2ACB9">
+</a>
 </p>
 
 ![330307847022211](https://user-images.githubusercontent.com/110843762/225420992-e4ef9135-421d-4357-a45f-9c35039311fd.png)
