@@ -1,12 +1,11 @@
 
 
 
-
 ![330307847022211](https://user-images.githubusercontent.com/110843762/225420992-e4ef9135-421d-4357-a45f-9c35039311fd.png)
 ![star](https://user-images.githubusercontent.com/110843762/225450803-ce1a5703-2dd6-4598-a2bf-bb85ec8fdfda.png)
 
 <!--📏LINE-->
-![github-header-image (4)](https://user-images.githubusercontent.com/110843762/225437727-0f804b85-f27c-416d-b62b-29ebf989766d.png)
+![github-header-image (9)](https://github.com/efloresz/efloresz/assets/110843762/6924d19a-8a4b-4903-a7a3-6f11a556ab02)
 </p>  
 <p align="center">
 <a href="https://github.com/efloresz/github-profile-views-counter">
