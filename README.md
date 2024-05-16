@@ -32,8 +32,8 @@ public class Information {
     public static void main(String[] args) {
         Information info = new Information(
             "Emily Flores",
-            "Massachusetts Bay Community College",
-            "Boston, MA",
+            "University of Massachusetts Amherst",
+            "Newton, MA",
             "Computer Science",
             new String[]{"Python", "Java", "JavaScript", "HTML", "CSS"}
         );
