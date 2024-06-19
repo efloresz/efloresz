@@ -32,7 +32,7 @@ public class Information {
     public static void main(String[] args) {
         Information info = new Information(
             "Emily Flores",
-            "University of Massachusetts Amherst",
+            "Northeastern University",
             "Newton, MA",
             "Computer Science",
             new String[]{"Python", "Java", "JavaScript", "HTML", "CSS"}
