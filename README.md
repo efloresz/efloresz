@@ -16,17 +16,20 @@
 ![330307847022211](https://user-images.githubusercontent.com/110843762/225420992-e4ef9135-421d-4357-a45f-9c35039311fd.png)
 
 ```java
-// -*- About me -*- 
+// -*- About me -*-
+
 public class Information {
     private String name, school, location, major;
-    private String[] languages;
+    private String[] languages, hobbies;
 
-    public Information(String name, String school, String location, String major, String[] languages) {
+    public Information(String name, String school, String location,
+        String major, String[] languages, String[] hobbies) {
         this.name = name;
         this.school = school;
         this.location = location;
         this.major = major;
         this.languages = languages;
+        this.hobbies = hobbies;
     }
 
     public static void main(String[] args) {
@@ -35,11 +38,15 @@ public class Information {
             "Northeastern University",
             "Newton, MA",
             "Computer Science",
-            new String[]{"Python", "Java", "JavaScript", "HTML", "CSS"}
+            new String[]{"Java", "Python", "SQL", "JavaScript"},
+            new String[]{"Fitness", "Reading", "Traveling", "Music"}
         );
 
-        System.out.printf("Name: %s\nSchool: %s\nLocation: %s\nMajor: %s\nLanguages: %s\n",
-            info.name, info.school, info.location, info.major, String.join(", ", info.languages));
+         System.out.printf(
+            "Name: %s\nSchool: %s\nLocation: %s\nMajor: %s\nLanguages: %s\nHobbies: %s\n",
+            info.name, info.school, info.location, info.major,
+            String.join(", ", info.languages),
+            String.join(", ", info.hobbies));
     }
 }
 ```
